@@ -13,9 +13,8 @@
 }
 
 @media screen and (max-width:680px) {
-#about{
-	width: auto;
-	float: none;
+.iframe{
+	width: 100%;
 }
 }
 
